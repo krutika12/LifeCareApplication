@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeCareApplication</string>
+    <string name="f_name">Enter first name</string>
+    <string name="l_name">Enter last name</string>
+    <string name="phone_no">Enter mobile no</string>
+    <string name="phone_valid_no">Enter 10  digit valid mobile no</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="invalidemail">"Enter valid mail id "</string>
+    <string name="please_wait">Please wait</string>
+    <string name="otp_enter">Enter OTP</string>
+    <string name="otp_incorrect">Enter correct OTP</string>
+    <string name="yesd">Yes</string>
+    <string name="nod">No</string>
+</resources>
